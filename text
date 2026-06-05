@@ -1,1 +1,2 @@
 pip install pyside6 pandas openpyxl psycopg2
+python -m venv .venv
